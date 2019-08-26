@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "814553630270",
+    "firebase_url": "https://android-fea76.firebaseio.com",
+    "project_id": "android-fea76",
+    "storage_bucket": "android-fea76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814553630270:android:5b979f7116006405",
+        "android_client_info": {
+          "package_name": "ozd.ouhssain.zak.com.loginserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814553630270-n1419icheqb09trf8cukekckji6uvho8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdCHBIMTz96Sd6p04AXoA7QfE0zaxJimo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
